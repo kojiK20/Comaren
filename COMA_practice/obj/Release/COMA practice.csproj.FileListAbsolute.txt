@@ -1,0 +1,11 @@
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Release\COMA practice.exe.config
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Release\COMA practice.exe
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Release\COMA practice.pdb
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Release\ReadFile.dll
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Release\ReadFile.pdb
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Release\COMA practice.csprojResolveAssemblyReference.cache
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Release\COMA_practice.コマ練くん.resources
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Release\COMA_practice.Properties.Resources.resources
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Release\COMA practice.csproj.GenerateResource.Cache
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Release\COMA practice.exe
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Release\COMA practice.pdb

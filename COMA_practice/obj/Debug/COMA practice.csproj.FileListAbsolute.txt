@@ -1,0 +1,22 @@
+c:\users\晃治\documents\visual studio 2015\Projects\COMA practice\COMA practice\bin\Debug\COMA practice.exe.config
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA practice.csprojResolveAssemblyReference.cache
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA_practice.Properties.Resources.resources
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA practice.csproj.GenerateResource.Cache
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\COMA practice.exe
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\COMA practice.pdb
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\ReadFile.dll
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\ReadFile.pdb
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA practice.exe
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA practice.pdb
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA_practice.コマ練くん.resources
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\COMA practice.exe.config
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA practice.exe
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA practice.pdb
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA practice.csprojResolveAssemblyReference.cache
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA_practice.コマ練くん.resources
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA_practice.Properties.Resources.resources
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\obj\Debug\COMA practice.csproj.GenerateResource.Cache
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\COMA practice.exe
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\COMA practice.pdb
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\ReadFile.dll
+C:\Users\Koji\Documents\Visual Studio 2015\Projects\COMA practice\COMA practice\bin\Debug\ReadFile.pdb

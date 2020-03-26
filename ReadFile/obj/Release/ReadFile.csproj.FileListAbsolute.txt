@@ -1,0 +1,5 @@
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\ReadFile\bin\Release\ReadFile.dll
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\ReadFile\bin\Release\ReadFile.pdb
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\ReadFile\obj\Release\ReadFile.csprojResolveAssemblyReference.cache
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\ReadFile\obj\Release\ReadFile.dll
+C:\Users\晃治\Documents\Visual Studio 2015\Projects\COMA practice\ReadFile\obj\Release\ReadFile.pdb
